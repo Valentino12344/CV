@@ -1,5 +1,5 @@
 
-const formelement = document.getElementById("savetansaccion");
+const formelement = document.getElementById("savetransaccion");
 
 formelement.addEventListener("submit", (event) => {
   event.preventDefault();
